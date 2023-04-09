@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Basic to Advance Python</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Basic to Advance Python</h1>
+	</header>
+	<main>
+		<section>
+			<h2>Chapter 1: Getting started with Python</h2>
+			<p>Introduction to Python</p>
+			<p>Installing Python and a code editor</p>
+			<p>Running your first Python program</p>
+			<p>Basic syntax, data types, and variables</p>
+			<p>Control structures (if statements, loops)</p>
+		</section>
+		<section>
+			<h2>Chapter 2: Functions and Modules</h2>
+			<p>Introduction to functions</p>
+			<p>Defining and calling functions</p>
+			<p>Parameters and arguments</p>
+			<p>Returning values from functions</p>
+			<p>Creating and importing modules</p>
+			<p>Standard library modules</p>
+		</section>
+		<section>
+			<h2>Chapter 3: Data structures and Algorithms</h2>
+			<p>Lists, Tuples, and Dictionaries</p>
+			<p>Accessing and manipulating data in data structures</p>
+			<p>Sorting and searching algorithms</p>
+			<p>Recursion</p>
+		</section>
+		<section>
+			<h2>Chapter 4: Object-Oriented Programming</h2>
+			<p>Introduction to Object-Oriented Programming (OOP)</p>
+			<p>Creating and using classes and objects</p>
+			<p>Inheritance and polymorphism</p>
+			<p>Advanced OOP concepts (abstraction, encapsulation)</p>
+		</section>
+		<section>
+			<h2>Chapter 5: File handling and Exception handling</h2>
+			<p>Reading and writing files in Python</p>
+			<p>Handling exceptions and errors</p>
+			<p>Debugging and testing Python code</p>
+		</section>
+		<section>
+			<h2>Chapter 6: Web development with Python</h2>
+			<p>Introduction to web development</p>
+			<p>Building a basic web application with Flask</p>
+			<p>Working with templates and forms</p>
+			<p>Deploying a web application</p>
+		</section>
+		<section>
+			<h2>Chapter 7: Data analysis with Python</h2>
+			<p>Introduction to data analysis</p>
+			<p>Working with Pandas library</p>
+			<p>Data visualization with Matplotlib library</p>
+		</section>
+		<section>
+			<h2>Chapter 8: Machine learning with Python</h2>
+			<p>Introduction to machine learning</p>
+			<p>Supervised and unsupervised learning</p>
+			<p>Classification and regression algorithms</p>
+			<p>Building a basic machine learning model with Scikit-Learn library</p>
+		</section>
+		<section>
+			<h2>Chapter 9: Advanced topics in Python</h2>
+			<p>Concurrency and parallel</p>
+<p>Working with databases in Python</p>
+<p>Creating GUI applications with Python</p>
+<p>Using Python for automation</p>
+<p>Best practices for Python programming</p>
+</section>
+<section>
+<h2>Chapter 10: Conclusion</h2>
+<p>Recap of what you have learned</p>
+<p>Next steps in your Python journey</p>
+<p>Resources for further learning</p>
+</section>
+</main>
+<footer>
+<p>Copyright © 2023 Basic to Advance Python</p>
+</footer>
+
+</body>
+</html>
